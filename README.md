@@ -41,20 +41,6 @@ I'm passionate about using data to create positive impact — designing reproduc
 
 ---
 
-### 📌 Featured Projects
-
-
----
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" height="165" />
-</p>
 
 ---
 
