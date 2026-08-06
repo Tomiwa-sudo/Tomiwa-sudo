@@ -43,36 +43,6 @@ I'm passionate about using data to create positive impact — designing reproduc
 
 ### 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/YOUR-USERNAME/PROJECT-ONE">Project One Title</a></h4>
-      One-line summary of the problem it solves and the approach used (e.g. "Ensemble ML pipeline for predicting X using Y dataset, achieving Z% accuracy").
-      <br/><br/>
-      <code>Python</code> <code>scikit-learn</code> <code>Pandas</code>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/YOUR-USERNAME/PROJECT-TWO">Project Two Title</a></h4>
-      One-line summary of the problem it solves and the approach used.
-      <br/><br/>
-      <code>Python</code> <code>PyTorch</code> <code>Docker</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/YOUR-USERNAME/PROJECT-THREE">Project Three Title</a></h4>
-      One-line summary of the problem it solves and the approach used.
-      <br/><br/>
-      <code>Python</code> <code>Cybersecurity</code> <code>SQL</code>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/YOUR-USERNAME/PROJECT-FOUR">Project Four Title</a></h4>
-      One-line summary of the problem it solves and the approach used.
-      <br/><br/>
-      <code>Python</code> <code>Data Visualisation</code>
-    </td>
-  </tr>
-</table>
 
 ---
 
