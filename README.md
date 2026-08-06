@@ -15,7 +15,6 @@ I'm a highly motivated and analytical researcher with a strong background in dat
 I'm passionate about using data to create positive impact — designing reproducible, evidence-based analytical solutions that translate into meaningful, decision-ready insights for organisations and communities.
 
 - 🔭 **Currently researching:**  "anomaly detection in large-scale network traffic using unsupervised machine learning"
-- 🌱 **Currently exploring:** 
 - 🎓 **Academic background:** PhD in Computer Science (in progress), Teesside University
 - 💬 **Ask me about:** Machine learning, predictive modelling, statistical analysis, data engineering, cybersecurity analytics
 
