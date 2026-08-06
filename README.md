@@ -4,12 +4,7 @@
   <em>PhD Researcher in Computer Science | Data Science & Machine Learning | Cybersecurity</em>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
-  <a href="https://orcid.org/YOUR-ORCID-ID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+
 
 ---
 
@@ -19,11 +14,11 @@ I'm a highly motivated and analytical researcher with a strong background in dat
 
 I'm passionate about using data to create positive impact — designing reproducible, evidence-based analytical solutions that translate into meaningful, decision-ready insights for organisations and communities.
 
-- 🔭 **Currently researching:** [one-line description of your PhD focus — e.g. "anomaly detection in large-scale network traffic using unsupervised machine learning"]
-- 🌱 **Currently exploring:** [optional — a tool, method, or area you're learning]
+- 🔭 **Currently researching:**  "anomaly detection in large-scale network traffic using unsupervised machine learning"
+- 🌱 **Currently exploring:** 
 - 🎓 **Academic background:** PhD in Computer Science (in progress), Teesside University
 - 💬 **Ask me about:** Machine learning, predictive modelling, statistical analysis, data engineering, cybersecurity analytics
-- 📫 **Reach me:** [LinkedIn] · [Google Scholar] · [ORCID] · [Email]
+
 
 ---
 
