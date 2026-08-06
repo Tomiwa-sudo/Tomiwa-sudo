@@ -76,10 +76,6 @@ I'm passionate about using data to create positive impact — designing reproduc
 
 ---
 
-### 📄 Research & Publications
-
-- **[Paper/Publication Title]** — Venue/Journal, Year. [Link]
-- **[Paper/Publication Title]** — Venue/Journal, Year. [Link]
 
 ---
 
